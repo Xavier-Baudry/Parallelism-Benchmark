@@ -28,8 +28,8 @@
 
 using namespace std;
 
-const int colSize = 1500;
-const int rowSize = 1500;
+const int colSize = 1600;
+const int rowSize = 1600;
 
 class timer; //prototyping to permit vector creation before class declaration
 
